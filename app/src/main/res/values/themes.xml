@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ChtoPrigotovit" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/brand_orange</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/brand_orange_soft</item>
+        <item name="colorOnPrimaryContainer">@color/brand_orange_dark</item>
+        <item name="colorSecondary">@color/green</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorSurfaceVariant">@color/chip_soft</item>
+        <item name="colorOnSurfaceVariant">@color/text_secondary</item>
+        <item name="colorError">@color/error</item>
+
+        <item name="android:colorBackground">@color/bg</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/brand_orange</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+</resources>

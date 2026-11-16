@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <color name="brand_orange">#FF7A1A</color>
+    <color name="brand_orange_dark">#D95F00</color>
+    <color name="brand_orange_soft">#FFE7D3</color>
+    <color name="green">#2E9E5B</color>
+    <color name="green_soft">#DCF3E4</color>
+
+    <color name="bg">#FFF7F1</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="chip_soft">#FFF0E2</color>
+    <color name="stroke">#EFE2D8</color>
+
+    <color name="text_primary">#22190F</color>
+    <color name="text_secondary">#8A7A6C</color>
+    <color name="error">#D32F2F</color>
+</resources>
